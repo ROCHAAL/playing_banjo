@@ -5,7 +5,7 @@ It is the TDD of a function which answers the question "Are you play banjo ?". I
 
 .Ruby 2.7.1
 
-#To run the test
+# To run the test
 
 $ bundle init
 
@@ -13,7 +13,7 @@ $ rspec --init
 
 $ bundle install
 
-#Kata
+# Kata
 
 Create a function which answers the question "Are you playing banjo?".
 If your name starts with the letter "R" or lower case "r", you are playing banjo!
@@ -28,7 +28,7 @@ name + " plays banjo”
 
 
 
-#Steps
+# Steps
 
 1.Starts checking the input string
 2.If the input string starts with the letter “R” or “r” I add the input string to the string “plays banjo”.
