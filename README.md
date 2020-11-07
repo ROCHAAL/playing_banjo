@@ -31,6 +31,9 @@ name + " plays banjo”
 # Steps
 
 1.Starts checking the input string
+
 2.If the input string starts with the letter “R” or “r” I add the input string to the string “plays banjo”.
+
 3.If the input string starts with any other letter I add the input string to the string “does not play banjo” .
+
 4.Return name + “play banjo” or name + “does not play banjo.”
